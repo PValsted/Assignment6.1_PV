@@ -1,6 +1,7 @@
 
 /**
- * 
+ * Class containing methods to do a Depth First Search on a tree
+ * and find its height and number of nodes
  * @author Patrick Valsted
  *
  */
